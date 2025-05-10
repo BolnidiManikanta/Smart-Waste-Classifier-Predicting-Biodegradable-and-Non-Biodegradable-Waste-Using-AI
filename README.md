@@ -1,0 +1,2 @@
+# Smart-Waste-Classifier-Predicting-Biodegradable-and-Non-Biodegradable-Waste-Using-AI
+This project uses machine learning to classify waste as biodegradable or non-biodegradable, supporting sustainable waste management. By analyzing data from images and descriptions, it helps municipal bodies, recycling organizations, and consumers segregate waste, reducing landfill waste and enhancing recycling efforts.
